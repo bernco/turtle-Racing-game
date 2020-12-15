@@ -14,5 +14,4 @@
 <b /> At first you as a player will place your bet as to which turtle will win the race.
 
 
-![start screen](start_screen.PNG)
-![racing screen](racing_screen.PNG)
+![start screen](racing.gif)
